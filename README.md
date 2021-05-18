@@ -17,7 +17,14 @@ This is the submission repo for the PickMeUp Project.
 
 Report Documents
 
+UML Diagrams
+
 Source Code can be found at https://github.com/pablocawichii/PickMeUpv2
 
 - Contains the Unit Testing
 - Contains the Primary Program
+
+## Not Necessary
+
+- External Testing Files
+- Data collection
