@@ -1,4 +1,4 @@
-# PickMeUpSubmission
+ # PickMeUpSubmission
 
 This is the submission repo for the PickMeUp Project.
 
@@ -16,8 +16,15 @@ This is the submission repo for the PickMeUp Project.
 ## Contains
 
 - Report Documents
++ Report 1 Initial
++ Report 2 Initial
++ Report 3 Final
 
-- UML Diagrams
+- Documentation
++ Technical Documentation
++ User Documentation
++ Brochure
++ Individual Contributions for Demo 2
 
 - Source Code can be found at https://github.com/pablocawichii/PickMeUpv2
 
